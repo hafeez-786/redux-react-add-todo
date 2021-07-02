@@ -1,0 +1,25 @@
+.todo_list_block .MuiInputBase-input {
+    width: 280px;
+}
+.todo_list_block .MuiButton-root {
+    padding: 8px 16px;
+    border-radius: 0px;
+    margin-left: -1px;
+}
+
+.todo_list_block {
+    border: 1px solid #e2e2e2;
+    margin: 0 auto;
+    margin-top: 1rem;
+    padding-bottom: 2rem;
+    box-shadow: -2px 3px 10px 2px #00000047;
+}
+.todo_list_block .MuiTypography-body1 {
+  font-style: italic;
+}
+.todo_list_block .MuiIconButton-root {color: #f50057;}
+.todo_list_block .remove__all {
+    display: block;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
